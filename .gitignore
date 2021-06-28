@@ -1,0 +1,9 @@
+node_modules
+
+build
+.idea
+encoded
+index.js
+
+*.aax
+*.exe
